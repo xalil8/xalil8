@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Halil
-- 👀 I’m interested in Part Time Jobs and collaboration for open source projects 
+- 👀 Currently Working on Video Understand models, realtime computer vision, RTSP 
 - 🌱 I’m currently learning Deep Learning, 3D Computer Vision
 - 💞️ I’m looking to collaborate on projects in Deep Learning area specially Computer Vision Projects 
 - 📫 How to reach me halil.ozcan1999@gmail.com 
